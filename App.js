@@ -63,6 +63,8 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 50,
     // color: 'ff4301',
+    //hjjyyt
+    //jjjj
   },
   box: {
     height: 110,
