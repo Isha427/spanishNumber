@@ -65,6 +65,7 @@ const styles = StyleSheet.create({
     // color: 'ff4301',
     //hjjyyt
     //jjjj
+    //fegerg
   },
   box: {
     height: 110,
